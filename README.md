@@ -22,4 +22,4 @@
 - **Model Summary:** Extracted and interpreted model summaries, assessing coefficients, significance, and fit.
 - **Forecast Visualization:** Utilized the "forecast" library to visualize and understand future stock price predictions.
 
-Feel free to explore the detailed steps in each phase, contribute to the project, and leverage these insights for your own time series analyses! 🚀📊
+Feel free to explore the detailed steps in each phase, contribute to the project, and leverage these insights for your own time series analysis! 🚀📊
